@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.1](https://github.com/env-store/rusty-cli/compare/v0.5.0...v0.5.1) (2024-03-15)
+
+
+### Bug Fixes
+
+* fmt ([8902d6f](https://github.com/env-store/rusty-cli/commit/8902d6fd8488b16090cdc77ee2ca2e72845f36e2))
+
 ## [0.5.0](https://github.com/env-store/rusty-cli/compare/v0.4.1...v0.5.0) (2024-03-10)
 
 
